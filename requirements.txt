@@ -38,4 +38,3 @@ tensorflow
 oauthlib
 pyOpenSSL
 keras
-tf-nightly
